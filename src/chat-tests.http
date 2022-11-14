@@ -1,0 +1,4 @@
+###
+GET http://localhost:8081/api/v1/get_chat_messages
+###
+GET http://localhost:8081/api/v1/get_all_messages
